@@ -1,5 +1,5 @@
 # Vulnerability in Infrastructure (To Seismic Activity)
-This project looks at data collected after the 2015 7.8 magnitude earthquake in Nepal, and analyzes which properties of the buildings caused the most vulnerability to seismic activity.
+This project looks at data collected after the 2015 7.8 magnitude earthquake in Nepal, and analyzes which properties of the buildings caused the most vulnerability to seismic activity.\
 Presentation Slides are here: [Vulnerability in Infrastructure](https://docs.google.com/presentation/d/1MFLD8ml8S-GACSp86cJY3nutYitlDAk2rl_EQiD5f4E/edit?usp=sharing)
 ![image](https://github.com/TomGaoGe/Datathon_2024/assets/35647385/768b1fea-e350-4850-8d2b-98cb67187911)
 
